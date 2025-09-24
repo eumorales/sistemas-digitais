@@ -1,2 +1,1 @@
-# sistemas-digitais
-Trabalho 24/09
+📑 [Simulações](https://github.com/eumorales/sistemas-digitais/blob/main/Simulações.pdf)
